@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b54375013e96edc4e857c22aa2cd4ad4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MainMenuPanel: {fileID: 6904880594013968100, guid: 57bb36346a39aa846a30e13c2c7f306e,
+      type: 3}
+  - PlayerNamePanel: {fileID: 7547669641257961144, guid: 0f74bb1fab8be5048b01f0f112734809,
+      type: 3}
+  - HostOrJoinPanel: {fileID: 1354049507003912026, guid: f590bd9f33de22c4bab1fa246860bde4,
+      type: 3}
+  - EnterIPAddressPanel: {fileID: 2366680009389830163, guid: efcdc3f2268ebcd4782bc790d8be9700,
+      type: 3}
+  - playerNameInputField: {instanceID: 0}
+  - IpAddressField: {instanceID: 0}
+  - returnToMainMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
